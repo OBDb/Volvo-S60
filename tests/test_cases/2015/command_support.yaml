@@ -63,6 +63,9 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0149:APP_D
 unsupported_commands_by_ecu:
+  "7E1":
+  - 7E1.7E9.010D
+  - 7E1.7E9.0131
   "D016":
   - D016.22EE6F|ta=30,fc=1,c=1D:VOLVO_APP_POS
   "D01A":
