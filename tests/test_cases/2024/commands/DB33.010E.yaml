@@ -1,0 +1,23 @@
+command_id: DB33.010E
+test_cases:
+- expected_values:
+    SPARKADV: -19
+  response: 18DAF11003410E5A
+- expected_values:
+    SPARKADV: 9.5
+  response: 18DAF11003410E93
+- expected_values:
+    SPARKADV: 11.5
+  response: 18DAF11003410E97
+- expected_values:
+    SPARKADV: 14.5
+  response: 18DAF11003410E9D
+- expected_values:
+    SPARKADV: 20.5
+  response: 18DAF11003410EA9
+- expected_values:
+    SPARKADV: 21.5
+  response: 18DAF11003410EAB
+- expected_values:
+    SPARKADV: 38.5
+  response: 18DAF11003410ECD
