@@ -5,3 +5,8 @@ test_cases:
   response: |-
     18DAF11003415B2C
     18DAF1CA03415B2C
+- expected_values:
+    BAT_SOC: 92.15686
+  response: |-
+    18DAF11003415BEB
+    18DAF1CA03415BEB
