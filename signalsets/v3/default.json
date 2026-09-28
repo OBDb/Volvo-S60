@@ -178,6 +178,10 @@
   "signals": [
     {"id": "S60_CLU_PMP_DUTY", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "percent" }, "name": "Clutch pump duty"}
   ]},
+{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+  "signals": [
+    {"id": "S60_DEM_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Total distance", "suggestedMetric": "odometer"}
+  ]},
 { "hdr": "D018", "rax": "1F002E80", "pri": "1D", "tst": "01", "fcm1": true, "dbg": true, "cmd": {"22": "D903"}, "freq": 30,
   "signals": [
     {"id": "S60_DIST_SINCE_SERVICE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance since last service"}
