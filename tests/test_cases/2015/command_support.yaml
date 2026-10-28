@@ -80,6 +80,7 @@ supported_commands_by_ecu:
   - 7E0.0155:STSO2FT1
   - 7E0.0156:LGSO2FT1
   "7E1":
+  - 7E1.7E9.010C
   - 7E1.7E9.010D
   - 7E1.7E9.0131
 unsupported_commands_by_ecu:
