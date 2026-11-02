@@ -1,0 +1,8 @@
+command_id: D016.1EC64E80.22DA85|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_GEAR: 2
+  response: 1EC64E800562DA850002
+- expected_values:
+    S60_GEAR: 4
+  response: 1EC64E800562DA850004

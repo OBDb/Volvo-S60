@@ -1,0 +1,20 @@
+command_id: D016.1EC60E80.22033E|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 130.51
+  response: 1EC60E800562033E32FB
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 130.72
+  response: 1EC60E800562033E3310
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 131.46
+  response: 1EC60E800562033E335A
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 132.62
+  response: 1EC60E800562033E33CE
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 134.31
+  response: 1EC60E800562033E3477
+- expected_values:
+    S60_BOOST_AIR_P_AFTER: 147.6
+  response: 1EC60E800562033E39A8

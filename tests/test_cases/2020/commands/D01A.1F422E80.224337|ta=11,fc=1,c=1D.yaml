@@ -1,0 +1,14 @@
+command_id: D01A.1F422E80.224337|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_HEAT_EXCHANGER_T_V_2: 3.2
+  response: 1F422E800662433701E480
+- expected_values:
+    S60_HEAT_EXCHANGER_T_V_2: 6.4
+  response: 1F422E800662433702347C
+- expected_values:
+    S60_HEAT_EXCHANGER_T_V_2: 6.4
+  response: 1F422E8006624337023480
+- expected_values:
+    S60_HEAT_EXCHANGER_T_V_2: 6.4
+  response: 1F422E800662433702847C

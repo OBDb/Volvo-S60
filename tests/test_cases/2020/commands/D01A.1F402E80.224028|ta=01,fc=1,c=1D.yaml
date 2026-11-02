@@ -1,0 +1,26 @@
+command_id: D01A.1F402E80.224028|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_BAT_ST_CHG: 55.2
+  response: 1F402E80056240280228
+- expected_values:
+    S60_BAT_ST_CHG: 64.7
+  response: 1F402E80056240280287
+- expected_values:
+    S60_BAT_ST_CHG: 65
+  response: 1F402E8005624028028A
+- expected_values:
+    S60_BAT_ST_CHG: 65.2
+  response: 1F402E8005624028028C
+- expected_values:
+    S60_BAT_ST_CHG: 65.5
+  response: 1F402E8005624028028F
+- expected_values:
+    S60_BAT_ST_CHG: 65.7
+  response: 1F402E80056240280291
+- expected_values:
+    S60_BAT_ST_CHG: 65.9
+  response: 1F402E80056240280293
+- expected_values:
+    S60_BAT_ST_CHG: 66
+  response: 1F402E80056240280294

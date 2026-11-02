@@ -1,0 +1,20 @@
+command_id: D01A.1F402E80.2240D3|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_AUXILIARY_BAT_T: 19
+  response: 1F402E80046240D345
+- expected_values:
+    S60_AUXILIARY_BAT_T: 21
+  response: 1F402E80046240D347
+- expected_values:
+    S60_AUXILIARY_BAT_T: 22
+  response: 1F402E80046240D348
+- expected_values:
+    S60_AUXILIARY_BAT_T: 23
+  response: 1F402E80046240D349
+- expected_values:
+    S60_AUXILIARY_BAT_T: 24
+  response: 1F402E80046240D34A
+- expected_values:
+    S60_AUXILIARY_BAT_T: 25
+  response: 1F402E80046240D34B
