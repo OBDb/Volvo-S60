@@ -1,0 +1,17 @@
+command_id: D016.1EC64E80.22DA38|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_DRIVEN_SHFT_SPD: 77
+  response: 1EC64E800562DA38004D
+- expected_values:
+    S60_DRIVEN_SHFT_SPD: 398
+  response: 1EC64E800562DA38018E
+- expected_values:
+    S60_DRIVEN_SHFT_SPD: 497
+  response: 1EC64E800562DA3801F1
+- expected_values:
+    S60_DRIVEN_SHFT_SPD: 585
+  response: 1EC64E800562DA380249
+- expected_values:
+    S60_DRIVEN_SHFT_SPD: 798
+  response: 1EC64E800562DA38031E

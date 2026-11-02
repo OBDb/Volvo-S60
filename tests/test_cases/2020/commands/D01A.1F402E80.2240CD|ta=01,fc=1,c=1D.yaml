@@ -1,0 +1,14 @@
+command_id: D01A.1F402E80.2240CD|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_BAT_V: 12.7
+  response: 1F402E80056240CD0134
+- expected_values:
+    S60_BAT_V: 15.175
+  response: 1F402E80056240CD0197
+- expected_values:
+    S60_BAT_V: 15.225
+  response: 1F402E80056240CD0199
+- expected_values:
+    S60_BAT_V: 15.25
+  response: 1F402E80056240CD019A

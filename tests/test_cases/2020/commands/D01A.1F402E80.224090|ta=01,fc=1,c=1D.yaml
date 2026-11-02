@@ -1,0 +1,29 @@
+command_id: D01A.1F402E80.224090|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_BAT_CURRENT: -8.4375
+  response: 1F402E80056240901F79
+- expected_values:
+    S60_BAT_CURRENT: 7.0625
+  response: 1F402E80056240902071
+- expected_values:
+    S60_BAT_CURRENT: 8
+  response: 1F402E80056240902080
+- expected_values:
+    S60_BAT_CURRENT: 8.0625
+  response: 1F402E80056240902081
+- expected_values:
+    S60_BAT_CURRENT: 8.375
+  response: 1F402E80056240902086
+- expected_values:
+    S60_BAT_CURRENT: 8.5
+  response: 1F402E80056240902088
+- expected_values:
+    S60_BAT_CURRENT: 8.6875
+  response: 1F402E8005624090208B
+- expected_values:
+    S60_BAT_CURRENT: 9.1875
+  response: 1F402E80056240902093
+- expected_values:
+    S60_BAT_CURRENT: 12.875
+  response: 1F402E800562409020CE

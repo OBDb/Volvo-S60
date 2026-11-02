@@ -1,0 +1,11 @@
+command_id: D016.1EC70E80.221946|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_MODULE_CURRENT: 1141
+  response: 1EC70E80056219460475
+- expected_values:
+    S60_MODULE_CURRENT: 1286
+  response: 1EC70E80056219460506
+- expected_values:
+    S60_MODULE_CURRENT: 1723
+  response: 1EC70E800562194606BB

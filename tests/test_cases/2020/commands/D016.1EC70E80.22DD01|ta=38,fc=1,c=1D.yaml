@@ -1,0 +1,11 @@
+command_id: D016.1EC70E80.22DD01|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_DEM_ODO: 49109
+  response: 1EC70E800662DD0100BFD5
+- expected_values:
+    S60_DEM_ODO: 49110
+  response: 1EC70E800662DD0100BFD6
+- expected_values:
+    S60_DEM_ODO: 49111
+  response: 1EC70E800662DD0100BFD7

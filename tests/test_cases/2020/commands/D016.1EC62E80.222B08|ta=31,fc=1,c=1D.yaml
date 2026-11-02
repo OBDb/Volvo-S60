@@ -1,0 +1,17 @@
+command_id: D016.1EC62E80.222B08|ta=31,fc=1,c=1D
+test_cases:
+- expected_values:
+    S60_RL_WHL_SPD: 9
+  response: 1EC62E8004622B0809
+- expected_values:
+    S60_RL_WHL_SPD: 13
+  response: 1EC62E8004622B080D
+- expected_values:
+    S60_RL_WHL_SPD: 19
+  response: 1EC62E8004622B0813
+- expected_values:
+    S60_RL_WHL_SPD: 25
+  response: 1EC62E8004622B0819
+- expected_values:
+    S60_RL_WHL_SPD: 35
+  response: 1EC62E8004622B0823
