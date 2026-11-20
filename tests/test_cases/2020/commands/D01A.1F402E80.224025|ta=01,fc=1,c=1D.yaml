@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S60_AVG_STATIC_LOW_RANGE: -39
   response: 1F402E800562402501D8
+- expected_values:
+    S60_AVG_STATIC_LOW_RANGE: -16
+  response: 1F402E800562402501EF

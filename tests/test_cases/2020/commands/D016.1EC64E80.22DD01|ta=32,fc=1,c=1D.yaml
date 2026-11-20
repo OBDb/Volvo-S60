@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     S60_ODO: 49111
   response: 1EC64E800662DD0100BFD7
+- expected_values:
+    S60_ODO: 72034
+  response: 1EC64E800662DD01011962

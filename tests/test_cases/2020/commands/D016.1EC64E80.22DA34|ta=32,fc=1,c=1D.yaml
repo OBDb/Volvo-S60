@@ -1,6 +1,9 @@
 command_id: D016.1EC64E80.22DA34|ta=32,fc=1,c=1D
 test_cases:
 - expected_values:
+    S60_GEAR_RAT_ACT: 0.8074
+  response: 1EC64E800562DA340CED
+- expected_values:
     S60_GEAR_RAT_ACT: 1.45839
   response: 1EC64E800562DA341759
 - expected_values:

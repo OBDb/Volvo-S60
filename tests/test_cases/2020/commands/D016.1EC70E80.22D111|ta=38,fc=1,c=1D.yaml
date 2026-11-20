@@ -1,6 +1,9 @@
 command_id: D016.1EC70E80.22D111|ta=38,fc=1,c=1D
 test_cases:
 - expected_values:
+    S60_MODULE_V: 14.6
+  response: 1EC70E800462D11192
+- expected_values:
     S60_MODULE_V: 15.1
   response: 1EC70E800462D11197
 - expected_values:

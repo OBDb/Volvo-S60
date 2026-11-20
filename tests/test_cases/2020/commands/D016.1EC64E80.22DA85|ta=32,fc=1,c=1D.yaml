@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S60_GEAR: 4
   response: 1EC64E800562DA850004
+- expected_values:
+    S60_GEAR: 7
+  response: 1EC64E800562DA850007

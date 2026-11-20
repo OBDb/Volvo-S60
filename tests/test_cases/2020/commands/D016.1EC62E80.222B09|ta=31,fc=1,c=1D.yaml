@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     S60_RR_WHL_SPD: 35
   response: 1EC62E8004622B0923
+- expected_values:
+    S60_RR_WHL_SPD: 81
+  response: 1EC62E8004622B0951
