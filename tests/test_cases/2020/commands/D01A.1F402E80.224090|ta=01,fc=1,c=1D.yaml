@@ -4,6 +4,9 @@ test_cases:
     S60_BAT_CURRENT: -8.4375
   response: 1F402E80056240901F79
 - expected_values:
+    S60_BAT_CURRENT: 1.375
+  response: 1F402E80056240902016
+- expected_values:
     S60_BAT_CURRENT: 7.0625
   response: 1F402E80056240902071
 - expected_values:

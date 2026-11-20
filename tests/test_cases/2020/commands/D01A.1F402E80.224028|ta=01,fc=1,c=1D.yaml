@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     S60_BAT_ST_CHG: 66
   response: 1F402E80056240280294
+- expected_values:
+    S60_BAT_ST_CHG: 80.1
+  response: 1F402E80056240280321

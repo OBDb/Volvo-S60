@@ -1,6 +1,11 @@
 command_id: D018.1F002E80.22D903|ta=01,fc=1,c=1D
 test_cases:
 - expected_values:
+    S60_DIST_SINCE_SERVICE: 7050
+  response: |-
+    1F002E80100962D9031B8A00
+    1F002E80214F008800000000
+- expected_values:
     S60_DIST_SINCE_SERVICE: 14347
   response: |-
     1F002E80100962D903380B00

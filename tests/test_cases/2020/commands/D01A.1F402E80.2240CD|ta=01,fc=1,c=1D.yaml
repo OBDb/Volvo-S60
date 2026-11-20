@@ -4,6 +4,9 @@ test_cases:
     S60_BAT_V: 12.7
   response: 1F402E80056240CD0134
 - expected_values:
+    S60_BAT_V: 14.65
+  response: 1F402E80056240CD0182
+- expected_values:
     S60_BAT_V: 15.175
   response: 1F402E80056240CD0197
 - expected_values:
