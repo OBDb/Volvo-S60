@@ -4,5 +4,5 @@ test_cases:
     S60_ATF_T: 11
   response: 1EC64E800562DA3B000B
 - expected_values:
-    S60_ATF_T: 94
-  response: 1EC64E800562DA3B005E
+    S60_ATF_T: 100
+  response: 1EC64E800562DA3B0064
